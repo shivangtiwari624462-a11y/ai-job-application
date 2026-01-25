@@ -1,0 +1,44 @@
+# =========================
+# env & secrets
+# =========================
+.env
+*.env
+
+# =========================
+# credentials & cookies
+# =========================
+*cookies*
+*credential*
+gmail_credentials.json
+
+# =========================
+# user & job data (private)
+# =========================
+jobs_all.json
+user_preferences.json
+
+# =========================
+# browser / automation profiles
+# =========================
+naukri_profile/
+linkedin_profile/
+agent/**/naukri_profile/
+agent/**/linkedin_profile/
+
+# =========================
+# python cache
+# =========================
+__pycache__/
+*.pyc
+
+# =========================
+# virtual environment
+# =========================
+venv/
+
+# =========================
+# OS junk
+# =========================
+.DS_Store
+Thumbs.db
+desktop.ini

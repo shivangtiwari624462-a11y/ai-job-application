@@ -1,0 +1,8 @@
+2026/01/21-19:39:59.070 4518 Reusing MANIFEST C:\Users\shiva\OneDrive\Desktop\ai-job-application\naukri-profile\Default\Local Storage\leveldb/MANIFEST-000001
+2026/01/21-19:39:59.076 4518 Recovering log #3
+2026/01/21-19:39:59.077 4518 Level-0 table #3: started
+2026/01/21-19:39:59.083 4518 Level-0 table #3: 35399 bytes OK
+2026/01/21-19:39:59.084 4518 Recovering log #4
+2026/01/21-19:39:59.086 4518 Reusing old log C:\Users\shiva\OneDrive\Desktop\ai-job-application\naukri-profile\Default\Local Storage\leveldb/000004.log 
+2026/01/21-19:39:59.089 4518 Delete type=0 #3
+2026/01/21-19:39:59.090 4518 Delete type=2 #5
