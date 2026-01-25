@@ -1,0 +1,18 @@
+[
+  {
+    "id": "auto-apply-job",
+    "title": "Senior Frontend Developer",
+    "company": "Auto Corp",
+    "score": 82,
+    "applied": true,
+    "applied_on": "2026-01-24 20:35"
+  },
+  {
+    "id": "approval-job-001",
+    "title": "Frontend Developer",
+    "company": "Approval Test Pvt Ltd",
+    "score": 60,
+    "applied": true,
+    "applied_on": "2026-01-24 20:35"
+  }
+]
